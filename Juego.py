@@ -31,7 +31,7 @@ islandZones = {
         "connections": ["beach", "jungle","exit"],
         "loot_table": [0, 5, 15],
         "hiddenTreasure": 0.05,
-        "treasureLoot": [20, 30] 
+        "treasureLoot": [25, 35] 
     },
     "jungle": {
         "description": "You are deep in the jungle. The trees are thick, and there are paths to the volcano, beach, and mysterious cave.",
